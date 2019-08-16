@@ -1,1 +1,2 @@
-# gitintro
+# Crear repositorio de git
+## Introducción
